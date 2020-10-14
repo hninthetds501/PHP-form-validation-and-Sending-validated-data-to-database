@@ -1,0 +1,21 @@
+input{
+			display:block;
+			margin-bottom: 5px;
+			padding:5px;
+			width:200px;
+		}
+		input[type=submit]{
+			width:100px;
+			cursor: pointer;
+		}
+		input[type=checkbox]{
+			display: inline;
+			width:20px;
+			margin:0;
+			margin-bottom: 20px;
+		}
+		div{
+			color:red;
+			margin-top: 0;
+			margin-bottom: 10px;
+		}
